@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Person Homepage"
 title_separator          : "-"
-name                     : &name "Gregory Naisat"
+name                     : &name "Gregory Naitzat"
 description              : &description "personal description"
 url                      : https://sgregnt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
