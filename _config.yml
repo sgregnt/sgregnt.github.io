@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Gregory Naisat"
   avatar           : "profile.png"
-  bio              : "PhD student  - Statistics Department - The University of Chicago"
+  bio              : "PhD student."
   location         : "Chicago, IL, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qWdJyrMAAAAJ&hl=en"
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/greg-naitzat-783a9b4/"
   orcid            : 
   pinterest        :
   soundcloud       :
