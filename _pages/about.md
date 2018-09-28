@@ -8,15 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am studying towards a PhD degree at the University of Chicago, in the depatment of Statistics. My research is conducted under supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/)
+I am studying towards a PhD degree at the University of Chicago, in the depatment of [Statistics](https://galton.uchicago.edu/). My research is conducted under supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/)
 
-I'm interested in applying non standard tools form abstract algebra and topology to the study of theory and applications of neural networks. Two areas that I'm currently most interested in are: 
-
-* Tropical algebra and tropical geometry of deep neural network.
-
-* Topological data analysis to boost performance of neural networks.
-
-
-For most upto date professional expirience please see my linkedin page.
+I'm interested in applying non standard tools form abstract algebra and topolgy to the study of neural networks. For most up to date professional expirience please see my [linkedin page](https://www.linkedin.com/in/greg-naitzat-783a9b4/).  
 
 
