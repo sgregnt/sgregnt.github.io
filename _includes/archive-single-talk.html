@@ -16,10 +16,15 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        {{ post.date | date: '%B %d, %Y' }} - {{post.type}}, {{ post.venue }},  {{post.location}} - {{ title }} 
+        {{ post.date | date: '%B %d, %Y' }} - {{ title }} 
+        
+        <p>{{post.type}}, {{ post.venue }},  {{post.location}}</p>
       {% else %}
-       {{ post.date | date: '%B %d, %Y' }} - {{post.type}}, {{ post.venue }},  {{post.location}} - {{ title }}
+       {{ post.date | date: '%B %d, %Y' }} - {{ title }}
+       
+       <p>{{post.type}}, {{ post.venue }},  {{post.location}}</p>
       {% endif %}
+      
     </h3>
   </article>
 </div>
