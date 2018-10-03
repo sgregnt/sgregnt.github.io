@@ -27,7 +27,7 @@
     {% endif %}
 
     <h3>
-        {{ title }} 
+       {{ post.date | default: "1900-01-01" | date: "%Y" }} - {{ title }} 
     </h3>
     
     {% if post.read_time %}
