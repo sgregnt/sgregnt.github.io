@@ -1,5 +1,5 @@
 ---
-title: "Optimization"
+title: "Optimization (Undergraduate)"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2017-spring-teaching-1

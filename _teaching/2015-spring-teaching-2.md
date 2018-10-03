@@ -1,5 +1,5 @@
 ---
-title: "Matrix Computations"
+title: "Matrix Computations (Graduate)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2017-fall-teaching-1
