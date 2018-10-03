@@ -18,11 +18,11 @@
       {% if post.link %}
         {{ post.date | date: '%B %d, %Y' }} - {{ title }} 
         
-        <p>{{post.type}}, {{ post.venue }},  {{post.location}}</p>
+      {{post.type}}, {{ post.venue }},  {{post.location}}
       {% else %}
        {{ post.date | date: '%B %d, %Y' }} - {{ title }}
        
-       <p>{{post.type}}, {{ post.venue }},  {{post.location}}</p>
+      {{post.type}}, {{ post.venue }},  {{post.location}}
       {% endif %}
       
     </h3>
