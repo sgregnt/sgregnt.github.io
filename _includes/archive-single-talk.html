@@ -19,14 +19,14 @@
         {{ post.date | date: '%B %d, %Y'}} - {{ title }} 
         
       <br> 
-      {{post.type}} {{ post.venue }}
+      {{ post.venue }}
       
       
       {% else %}
        {{ post.date | date: '%B %d, %Y'}} - {{ title }}
        
       <br>
-      {{post.type}} {{ post.venue }}
+       {{ post.venue }}
       {% endif %}
       
     </h3>
