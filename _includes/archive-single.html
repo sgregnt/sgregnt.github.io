@@ -27,7 +27,7 @@
     {% endif %}
 
     <h3>
-       {{ post.date | default: "1900-01-01" | date: "%Y" }} - {{ title }} 
+    <p>Download <a href=" {{ post.paperurl }} "><u> {{ post.date | default: "1900-01-01" | date: "%Y" }} - {{ title }}  </u></a></p>
     </h3>
     
     {% if post.read_time %}
