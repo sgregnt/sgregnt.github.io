@@ -1,5 +1,5 @@
 ---
-title: "Convex Optimization (Graduate)"
+title: "TTIC, Chicago - Convex Optimization (Graduate)"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/2018-winter-teaching-1
