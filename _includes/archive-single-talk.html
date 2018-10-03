@@ -14,14 +14,12 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        {{ title }}
+        {{ post.date | date: '%B %d, %Y' }} - {{ title }}
       {% else %}
-        {{ title }}
+       {{ post.date | date: '%B %d, %Y' }} - {{ title }}
       {% endif %}
     </h3>
-
   </article>
 </div>
