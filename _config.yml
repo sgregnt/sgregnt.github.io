@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Gregory Naisat"
   avatar           : "profile.png"
-  bio              : "PhD student."
-  location         : "Chicago, IL, USA"
+  bio              : "  PhD student "
+  location         : "The University of Chicago"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=qWdJyrMAAAAJ&hl=en"
   email            : gregn@uchicago.edu
