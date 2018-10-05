@@ -1,6 +1,7 @@
 ---
 title: "Application of tropical geometry for the study of feedforward neural networks"
 collection: talks
+type: "Seminar talk"
 venue: "Computational and Applied Mathematics RTG 
 Student Seminars, The University of Chicago, Chicago, US."
 ---
