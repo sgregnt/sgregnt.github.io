@@ -6,4 +6,4 @@ venue: "Computational and Applied Mathematics RTG
 Student Seminars, The University of Chicago, Chicago, US."
 ---
 
-[More information here](https://icml.cc/Conferences/2018/Schedule?showEvent=2946)
+[More information is here](https://icml.cc/Conferences/2018/Schedule?showEvent=2946)
