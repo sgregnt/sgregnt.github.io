@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Person Homepage"
 title_separator          : "-"
-name                     : &name "Gregory Naisat"
+name                     : &name "Gregory Naitzat"
 description              : &description "personal description"
 url                      : https://sgregnt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Gregory Naisat"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD student."
+  location         : "Chicago, IL, USA"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=qWdJyrMAAAAJ&hl=en"
+  email            : gregn@uchicago.edu
   uri              :
   bitbucket        :
   codepen          :
@@ -93,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "greg-naitzat-783a9b4/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

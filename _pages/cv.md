@@ -34,7 +34,7 @@ Stochastic control.
     * Projects: Sound recognition and classification,
 RSA encryption unit.
     * Cum Laude 
-* B.Sc. in Physics, Techinion - Israel institute of Technology, 2008
+* B.Sc. in [__Physics__](https://phys.technion.ac.il/en/), Techinion - Israel institute of Technology, 2008
     * Quantum Mechanics. 
     * Cum Laude
 
