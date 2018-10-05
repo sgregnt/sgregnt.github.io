@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* Summer 2018: Blink
+* Summer 2018: [Blink Statup](https://www.linkedin.com/search/results/all/?keywords=Blink). 
   * Machine Learning Intern/Researcher
   * Duties included: An intern researcher position over the summer in a new dynamic startup, member of the team that develops core computer vision capabilities at the startup. 
 
@@ -55,7 +55,7 @@ Proffesional Skills
 * Coding: Matlab, R, Python, C. 
 * Deep leanring frameworks: Caffe, Tensorflow, Theano.  
 * Tools: Linux, Github, Pycharm, Spyder, Google Cloud Compute. Spark. 
-* Managment: first line team managment expirience, attended workshps and courses on manamgment subjects. 
+* Managment: Extensive team managment experience. 
 * Hardware and FPGA: Embbeded C, VHDL, Verilog, Altera, Xilinx, lattice,
 Actel, SoC - Qsys, NIOS II (Embedded C, Ethernet Bootloader), PCIe, Proprietary
 protocols, Legacy protocols (CANBUS, UART, etcs.).
