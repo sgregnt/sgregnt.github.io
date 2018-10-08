@@ -74,7 +74,13 @@ Professional Skills
 * Hardware and FPGA: Embedded C, VHDL, Verilog, Altera, Xilinx, lattice,
 Actel, SoC - Qsys, NIOS II (Embedded C, Ethernet Bootloader), PCIe, Proprietary
 protocols, Legacy protocols (CANBUS, UART, etcs.). 
-
+* Advenced coursework: Object-oriented programming and
+design, Image processing,  Statistical methods
+in brain imaging, Selected topics in probability and statistics - Discrete Gaussian free fields,
+Stochastic control, Fundamentals of deep learning, Machine learning, Largre scale machine
+learning, Bayesian analysis, Nonparametric inference, Applied linear statistic methods, Scientific
+computations, Stochastic simulations, Numerical optimization, Convex optimization, Advanced
+courses in probability. 
 
 Publications
 ======
