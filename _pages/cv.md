@@ -59,7 +59,7 @@ Work experience
 Honors & Awards
 ======
 * 2018 Invited to participate in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b). The Institute will cover the expenses for accommodation and meals. and reimburse travel expenses.
-* 2018 ICML have been selected for a travel award covering travel and acommodation expenses.
+* 2018 ICML conference, I have been selected for a travel award covering travel and acommodation expenses.
 * 2017 SAS institute prize for patent initiative 2017.
 * 2015-2017: McCormick Fellowship. 
 * 2004-2008: Technion President Excellence Award. Received 2 times.
