@@ -26,7 +26,7 @@ geometry for machine learning](https://www.siam.org/Conferences/CM/Main/ag19) (w
 * [Tropical algebra and tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry) of deep neural network.   
    - In our latest work, presented this year at ICML conference in Stockholm, we've establish connections
 between feedforward neural networks with ReLU activation and tropical
-geometry|we show that the family of such neural networks is equivalent
+geometry. We've shown that the family of such neural networks is equivalent
 to the family of tropical rational maps. This novel connection between two previously distinct areas of research allowed us to use machinery of tropical algebraic geometry for the study of neural networks. 
 
 ![Polytopes](https://sgregnt.github.io/images/tropical.png "Polytopes")
