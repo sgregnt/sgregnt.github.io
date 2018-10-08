@@ -19,7 +19,7 @@ geometry for machine learning (with focus on deep neural networks).
 
 ## Research interest and latest professional experiences 
 
-I'm interested in applying non standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent project that I work on now are
+I'm interested in applying non standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent project that I work on now are:
 
 * [Tropical algebra and tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry) of deep neural network.   
    - In our latest work, presented this year at ICML conference in Stockholm, we've establish connections
@@ -39,13 +39,13 @@ I've considered TDA in a settings where point cloud data is
 contaminated by a noise and proved a theoretical convergence results for
 a Euler integral. In a recent project that I work on, we show how TDA can be used for proling
 of neural network operation and boosting its performance. The profiling
-is done using the mapper algorithm, the algorithm provides topological
+is done using the mapper algorithm (G Singh,2007)[https://research.math.osu.edu/tgda/mapperPBG.pdf], the algorithm provides topological
 summary for the data shape, in the form of simplex or a graph, the shape
 of the data is used to measure local performance of neural network on
 diferent regions in the input and  then device an assembly scheme that improves
 neural network performance.
 <p style="text-align: center;">
-![Topological Data summary](https://sgregnt.github.io/images/tda_neural_net.png "Topological Data summary")
+![Topological Data summary](https://sgregnt.github.io/images/tda.png "Topological Data summary")
 </p>
 During the summer of 2017 and 2018 I've spand wonderful time working as doctoral machine learning intern working on deep learning in (SAS institute)[https://www.sas.com/en_us/home.html] (2017, Cary, NC, US) and in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and tensorflow.  
 
