@@ -11,7 +11,7 @@ redirect_from:
 
 I'm studying towards a PhD degree at [the University of Chicago](https://www.uchicago.edu/), in the depatment of [Statistics](https://galton.uchicago.edu/). My research is conducted under supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/)
 
-I'm interested in applying non standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent project that I work on now are:
+I'm interested in applying non standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent projects that I work on now are:
 
 
 
