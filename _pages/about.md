@@ -49,11 +49,11 @@ neural network performance.
 ![Topological Data summary](https://sgregnt.github.io/images/tda.png "Topological Data summary")
 
 
-## Past research interests
+## Past research interests and professional experience
 
 - In the past I worked in logic design and hardware engineering. 
--- I did a research project at the [Technion](https://www.technion.ac.il/en/home-2/) where we designed [a near real time logic circuit for RSA encryption](https://ieeexplore.ieee.org/abstract/document/5386066). 
--- For the period between 2006-2015 year I worked as a board designer and FPGA engineer and team leader. 
+    - I did a research project at the [Technion](https://www.technion.ac.il/en/home-2/) where we designed [a near real time logic circuit for RSA encryption](https://ieeexplore.ieee.org/abstract/document/5386066). 
+    - For the period between 2006-2015 year I worked as a board designer and FPGA engineer and team leader. 
 
 ## Honors & Awards
 
