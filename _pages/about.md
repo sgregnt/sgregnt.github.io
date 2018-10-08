@@ -27,7 +27,7 @@ between feedforward neural networks with ReLU activation and tropical
 geometry|we show that the family of such neural networks is equivalent
 to the family of tropical rational maps. This novel connection between two previously distinct areas of research allowed us to use machinery of tropical algebraic geometry for the study of neural networks. 
 
-![alt text](https://sgregnt.github.io/images/500x300.png "Logo Title Text 1")
+![Polytopes](https://sgregnt.github.io/images/tropical.png "Polytopes")
 
 
 * Topological data analysis to boost performance of neural networks.
@@ -44,9 +44,9 @@ summary for the data shape, in the form of simplex or a graph, the shape
 of the data is used to measure local performance of neural network on
 diferent regions in the input and  then device an assembly scheme that improves
 neural network performance.
-
-![alt text](https://sgregnt.github.io/images/500x300.png "Logo Title Text 1")
-
+<p style="text-align: center;">
+![Topological Data summary](https://sgregnt.github.io/images/tda_neural_net.png "Topological Data summary")
+</p>
 During the summer of 2017 and 2018 I've spand wonderful time working as doctoral machine learning intern working on deep learning in (SAS institute)[https://www.sas.com/en_us/home.html] (2017, Cary, NC, US) and in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and tensorflow.  
 
 # Past research interest and work expirience. 
