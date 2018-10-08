@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I'm studying towards a PhD degree at [the University of Chicago](https://www.uchicago.edu/), in the depatment of [Statistics](https://galton.uchicago.edu/). My research is conducted under supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/)
+I'm studying towards a PhD degree at [the University of Chicago](https://www.uchicago.edu/), in the depatment of [Statistics](https://galton.uchicago.edu/). My research is conducted under the supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/)
 
-I'm interested in applying non standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent projects that I work on now are:
+I'm interested in applying non-standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent projects that I'm working on now are:
 
 
 
@@ -19,8 +19,8 @@ I'm interested in applying non standard tools form abstract algebra and topolgy 
 ## Announcements and latest whereabouts
 - (_new_) I'm organizing 2019 SIAM mini-seminar on application of tropical
 geometry for machine learning (with focus on deep neural networks). 
-- (_new_) I'm participating in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view) taking place this 14-20 Oct, 2018. 
-- (_new_) During the summer of 2018  I've spand wonderful time working as doctoral machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and tensorflow.  
+- (_new_) I'm participating in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view) taking place this Oct 14-20, 2018. 
+- (_new_) During the summer of 2018  I've spand wonderful time working as Phd machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and TensorFlow.  
 
 
 
@@ -42,7 +42,7 @@ new area of research that has rapidly developed in the past decade. TDA
 uses ideas from topology to analyses point cloud data. In my older work
 I've considered TDA in a settings where point cloud data is
 contaminated by a noise and proved a theoretical convergence results for
-a Euler integral. In a recent project that I work on, we show how TDA can be used for proling
+a Euler integral. In a recent project that I work on, we show how TDA can be used for profiling
 of neural network operation and boosting its performance. The profiling
 is done using the mapper algorithm [G Singh et. al., 2007](https://research.math.osu.edu/tgda/mapperPBG.pdf), the algorithm provides topological
 summary for the data shape, in the form of simplex or a graph, the shape
@@ -60,7 +60,7 @@ In the past I worked in logic design and hardware engineering. I did a research 
 
 ## Honors & Awards
 
-* 2018 Invited to participate in Oberwolfach Seminar: Mathematics of Deep Learning. The Institute will cover the expenses for accommodation and meals. and reimburse travel expenses.
+* 2018 Invited to participate in [Oberwolfach Seminar: Mathematics of Deep Learning](). The Institute will cover the expenses for accommodation and meals. and reimburse travel expenses.
 * 2018 ICML have been selected for a travel award covering travel and acommodation expenses.
 * 2017 SAS institute prize for patent initiative 2017.
 * 2015-2017: McCormick Fellowship. 
@@ -89,5 +89,8 @@ In the past I worked in logic design and hardware engineering. I did a research 
   
 ## Service and leadership
 
-* 2018 - Leading a consulting team of PhD and master students to helps law school initiative to study gender dynamics and gendered achievement disparities at the law school in the University of Chicago. The report can be found [__here__ .](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
-* 2017 - Leading a consulting team of PhD and master students that helps reserchers in bipolgy department to analyze spatial patterns of migrating cells in zebrafish embryos.
+* 2018 - Leading team of PhD and master students to helps the law school at the university of Chicago analyze gender dynamics and gender achievement disparities at the school. The report can be found [__here__.](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
+* 2017 - Leading a team of PhD and master students that consult reserchers in biology department to help them analyze spatial patterns of migrating cells in zebrafish embryos (analysis of cell movement within embryo).
+* Peer review for ["Artificial Intelligence Review"](https://link.springer.com/journal/10462)
+* Peer review for ["Linear Algebra and its Applications"](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications)
+* Peer review (unofficial) for ["The Annals of Probability"](https://www.imstat.org/journals-and-publications/annals-of-probability/)

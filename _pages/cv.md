@@ -15,26 +15,26 @@ Education
     * Advisor: Lek-Heng Lim. 
     * Research: Tropical geometry for deep learning, applied topological
 data analysis 
-    * Course work: Fundamentals of deep learning, Machine learning, Largre scale machine
-learning, Bayesian analysis, Nonparametric inference, Applied linear statistic methods, Scientific
-computations, Stochastic simulations, Numerical optimization, Convex optimization, Advanced
-courses in probability.
+    #* Course work: Fundamentals of deep learning, Machine learning, Largre scale machine
+#learning, Bayesian analysis, Nonparametric inference, Applied linear statistic methods, Scientific
+#computations, Stochastic simulations, Numerical optimization, Convex optimization, Advanced
+#courses in probability.
 
-* M.Sc. in [__Electrical Engineering__](https://vee.technion.ac.il/), Techinion - Israel institute of Technology, 2014
+* M.Sc. in [__Electrical Engineering__](https://vee.technion.ac.il/), Technion - Israel institute of Technology, 2014
     * Advisor: Robert J. Adler. 
     * Research: Thesis on random Gaussian fields in the context of
 data analysis and applied topology. 
-    * Advanced courses: Object-oriented programming and
-design, Image processing, Advanced topics in systems learning and control - Statistical methods
-in brain imaging, Selected topics in probability and statistics - Discrete Gaussian free fields,
-Stochastic control.
+    #* Advanced courses: Object-oriented programming and
+#design, Image processing, Advanced topics in systems learning and control - Statistical methods
+#in brain imaging, Selected topics in probability and statistics - Discrete Gaussian free fields,
+#Stochastic control.
 
-* B.Sc. in [__Electrical Engineering__](https://vee.technion.ac.il/), Techinion - Israel institute of Technology, 2008
+* B.Sc. in [__Electrical Engineering__](https://vee.technion.ac.il/), Technion - Israel institute of Technology, 2008
     * Signal processing, Digital communication.
     * Projects: Sound recognition and classification,
 RSA encryption unit.
     * Cum Laude 
-* B.Sc. in [__Physics__](https://phys.technion.ac.il/en/), Techinion - Israel institute of Technology, 2008
+* B.Sc. in [__Physics__](https://phys.technion.ac.il/en/), Technion - Israel institute of Technology, 2008
     * Quantum Mechanics. 
     * Cum Laude
 
@@ -65,20 +65,20 @@ Work experience
   
 Honors & Awards
 ======
-* 2018 Invited to participate in Oberwolfach Seminar: Mathematics of Deep Learning. The Institute will cover the expenses for accommodation and meals. and reimburse travel expenses.
+* 2018 Invited to participate in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b). The Institute will cover the expenses for accommodation and meals. and reimburse travel expenses.
 * 2018 ICML have been selected for a travel award covering travel and acommodation expenses.
 * 2017 SAS institute prize for patent initiative 2017.
 * 2015-2017: McCormick Fellowship. 
 * 2004-2008: Technion President Excellence Award. Received 2 times.
 * 2004-2008: [__"Psagot"__(Hebrew)](https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA_%D7%A4%D7%A1%D7%92%D7%95%D7%AA) excellence program.
   
-Proffesional Skills
+Professional Skills
 ======
 * Coding: Matlab, R, Python, C. 
 * Deep leanring frameworks: Caffe, Tensorflow, Theano.  
-* Tools: Linux, Github, Pycharm, Spyder, Google Cloud Compute, Spark. 
+* Tools: Linux, Github, Pycharm, Google Cloud Compute, Spark. 
 * Managment: Extensive team managment experience. 
-* Hardware and FPGA: Embbeded C, VHDL, Verilog, Altera, Xilinx, lattice,
+* Hardware and FPGA: Embedded C, VHDL, Verilog, Altera, Xilinx, lattice,
 Actel, SoC - Qsys, NIOS II (Embedded C, Ethernet Bootloader), PCIe, Proprietary
 protocols, Legacy protocols (CANBUS, UART, etcs.). 
 
@@ -103,5 +103,8 @@ Teaching
   
 Service and leadership
 ======
-* 2018 - Leading a consulting team of PhD and master students to helps law school initiative to study gender dynamics and gendered achievement disparities at the law school in the University of Chicago. The report can be found [__here__ .](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
-* 2017 - Leading a consulting team of PhD and master students that helps reserchers in bipolgy department to analyze spatial patterns of migrating cells in zebrafish embryos.
+* 2018 - Leading team of PhD and master students to helps the law school at the university of Chicago analyze gender dynamics and gender achievement disparities at the school. The report can be found [__here__.](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
+* 2017 - Leading a team of PhD and master students that consult reserchers in biology department to help them analyze spatial patterns of migrating cells in zebrafish embryos (analysis of cell movement within embryo).
+* Peer review for ["Artificial Intelligence Review"](https://link.springer.com/journal/10462)
+* Peer review for ["Linear Algebra and its Applications"](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications)
+* Peer review (unofficial) for ["The Annals of Probability"](https://www.imstat.org/journals-and-publications/annals-of-probability/)
