@@ -11,26 +11,28 @@ redirect_from:
 
 I'm studying towards a PhD degree at [the University of Chicago](https://www.uchicago.edu/), in the depatment of [Statistics](https://galton.uchicago.edu/). My research is conducted under supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/)
 
-# Latest anouncments and where about 
-- I'm organizing 2019 SIAM mini-seminar on application of tropical
+## The latest anouncments and whereabouts
+- __new__ I'm organizing 2019 SIAM mini-seminar on application of tropical
 geometry for machine learning (with focus on deep neural networks). 
-- I'm participating in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view) taking place this 14-20 Oct, 2018. 
+- __new__ I'm participating in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view) taking place this 14-20 Oct, 2018. 
 
 
-# Current research interest and professional experience 
+## Research interest and latest professional experiences 
 
 I'm interested in applying non standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent project that I work on now are
 
-* Tropical algebra and tropical geometry of deep neural network.   
+* [Tropical algebra and tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry) of deep neural network.   
    - In our latest work, presented this year at ICML conference in Stockholm, we've establish connections
 between feedforward neural networks with ReLU activation and tropical
 geometry|we show that the family of such neural networks is equivalent
 to the family of tropical rational maps. This novel connection between two previously distinct areas of research allowed us to use machinery of tropical algebraic geometry for the study of neural networks. 
 
+![alt text](https://github.com/sgregnt.github.ik/images/500x300.png "Logo Title Text 1")
+
 
 * Topological data analysis to boost performance of neural networks.
 
- - [Topological data analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) is a relatively
+   - [Topological data analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) is a relatively
 new area of research that has rapidly developed in the past decade. TDA
 uses ideas from topology to analyses point cloud data. In my older work
 I've considered TDA in a settings where point cloud data is
@@ -42,6 +44,8 @@ summary for the data shape, in the form of simplex or a graph, the shape
 of the data is used to measure local performance of neural network on
 diferent regions in the input and  then device an assembly scheme that improves
 neural network performance.
+
+![alt text](https://github.com/sgregnt.github.ik/images/500x300.png "Logo Title Text 1")
 
 During the summer of 2017 and 2018 I've spand wonderful time working as doctoral machine learning intern working on deep learning in (SAS institute)[https://www.sas.com/en_us/home.html] (2017, Cary, NC, US) and in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and tensorflow.  
 
