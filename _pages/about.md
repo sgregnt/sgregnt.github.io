@@ -15,8 +15,8 @@ I'm interested in applying non-standard tools form abstract algebra and topolgy 
 
 
 ### Announcements and latest whereabouts
-- (_new_) I'm organizing 2019 SIAM mini-seminar on application of tropical
-geometry for machine learning (with focus on deep neural networks). 
+- (_new_) I'm organizing [2019 SIAM mini-seminar on application of tropical
+geometry for machine learning](https://www.siam.org/Conferences/CM/Main/ag19) (with focus on deep neural networks). 
 - (_new_) I'm participating in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view) taking place this Oct 14-20, 2018. 
 - (_new_) During the summer of 2018  I've spand wonderful time working as Phd machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and TensorFlow.  
 
@@ -95,7 +95,7 @@ neural network performance.
 * Peer review (unofficial) for ["The Annals of Probability"](https://www.imstat.org/journals-and-publications/annals-of-probability/)
 
 
-## coloborations
+## Collaborations
 * [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/) 
 * [Robert Adler](https://robert.net.technion.ac.il/)
 * [Liwen Zhang](https://newtraell.cs.uchicago.edu/people/liwenz)
@@ -104,3 +104,5 @@ neural network performance.
 * [Ilknur Kaynar-Kabul](https://blogs.sas.com/content/author/ilknurkaynarkabul/)
 * [David Fleischer](https://il.linkedin.com/in/davidfleischer)
 * Leonid Prokupetz
+
+
