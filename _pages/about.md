@@ -56,7 +56,7 @@ neural network performance.
 
 ## Past research interests
 
-In the past I worked in logic design and hardware engineering. I did a research project at the [Techinion](https://www.technion.ac.il/en/home-2/) where we designed [a near real time logic circuit for RSA enchription](https://ieeexplore.ieee.org/abstract/document/5386066). For the period betwen 2006-2015 year I worked as a board designer and FPGA engineer and team leader. 
+In the past I worked in logic design and hardware engineering. I did a research project at the [Technion](https://www.technion.ac.il/en/home-2/) where we designed [a near real time logic circuit for RSA enchription](https://ieeexplore.ieee.org/abstract/document/5386066). For the period betwen 2006-2015 year I worked as a board designer and FPGA engineer and team leader. 
 
 ## Honors & Awards
 
@@ -89,5 +89,5 @@ In the past I worked in logic design and hardware engineering. I did a research 
   
 ## Service and leadership
 
-* 2018 - Leading a consulting team of PhD and master students to helps law school initiative to study gender dynamics and gendered achievement disparities at the law school in the University of Chicago. The report can be found [__here__](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
+* 2018 - Leading a consulting team of PhD and master students to helps law school initiative to study gender dynamics and gendered achievement disparities at the law school in the University of Chicago. The report can be found [__here__ .](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
 * 2017 - Leading a consulting team of PhD and master students that helps reserchers in bipolgy department to analyze spatial patterns of migrating cells in zebrafish embryos.

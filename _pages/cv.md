@@ -103,5 +103,5 @@ Teaching
   
 Service and leadership
 ======
-* 2018 - Leading a consulting team of PhD and master students to helps law school initiative to study gender dynamics and gendered achievement disparities at the law school in the University of Chicago. The report can be found [__here__](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
+* 2018 - Leading a consulting team of PhD and master students to helps law school initiative to study gender dynamics and gendered achievement disparities at the law school in the University of Chicago. The report can be found [__here__ .](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
 * 2017 - Leading a consulting team of PhD and master students that helps reserchers in bipolgy department to analyze spatial patterns of migrating cells in zebrafish embryos.
