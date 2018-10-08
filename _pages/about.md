@@ -11,17 +11,14 @@ redirect_from:
 
 I'm studying towards a PhD degree at [the University of Chicago](https://www.uchicago.edu/), in the depatment of [Statistics](https://galton.uchicago.edu/). My research is conducted under the supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/)
 
-I'm interested in applying non-standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent projects that I'm working on now are:
+I'm interested in applying non-standard tools form abstract algebra and topolgy to the study of neural networks. 
 
 
-
-
-## Announcements and latest whereabouts
+### Announcements and latest whereabouts
 - (_new_) I'm organizing 2019 SIAM mini-seminar on application of tropical
 geometry for machine learning (with focus on deep neural networks). 
 - (_new_) I'm participating in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view) taking place this Oct 14-20, 2018. 
 - (_new_) During the summer of 2018  I've spand wonderful time working as Phd machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and TensorFlow.  
-
 
 
 ## Most recent research projects
@@ -103,5 +100,5 @@ In the past I worked in logic design and hardware engineering. I did a research 
 * [Jorge Silva](https://scholar.google.com/citations?user=rZ8yeAkAAAAJ&hl=en)
 * [Namita Lokare](https://scholar.google.com/citations?user=gEmpXL0AAAAJ&hl=en)
 * [Ilknur Kaynar-Kabul](https://blogs.sas.com/content/author/ilknurkaynarkabul/)
-* David Flasher 
+* [David Fleischer](https://il.linkedin.com/in/davidfleischer)
 * Leonid Prokupetz
