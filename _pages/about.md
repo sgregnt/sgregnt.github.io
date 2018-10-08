@@ -24,7 +24,7 @@ geometry for machine learning](https://www.siam.org/Conferences/CM/Main/ag19) (w
 ## Most recent research projects
 
 * [Tropical algebra and tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry) of deep neural network.   
-   - In our latest work, presented this year at ICML conference in Stockholm, we've establish connections
+In our latest work, presented this year at ICML conference in Stockholm, we've establish connections
 between feedforward neural networks with ReLU activation and tropical
 geometry. We've shown that the family of such neural networks is equivalent
 to the family of tropical rational maps. This novel connection between two previously distinct areas of research allowed us to use machinery of tropical algebraic geometry for the study of neural networks. 
@@ -34,7 +34,7 @@ to the family of tropical rational maps. This novel connection between two previ
 
 * Topological data analysis to boost performance of neural networks.
 
-   - [Topological data analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) is a relatively
+[Topological data analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) is a relatively
 new area of research that has rapidly developed in the past decade. TDA
 uses ideas from topology to analyses point cloud data. In my older work
 I've considered TDA in a settings where point cloud data is
