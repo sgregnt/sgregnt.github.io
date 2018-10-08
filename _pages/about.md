@@ -49,7 +49,6 @@ neural network performance.
 
 ![Topological Data summary](https://sgregnt.github.io/images/tda.png "Topological Data summary")
 
-***
 
 ## Past research interests
 
