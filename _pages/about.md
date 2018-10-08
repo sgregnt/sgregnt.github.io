@@ -15,8 +15,8 @@ I'm interested in applying non-standard tools form abstract algebra and topolgy 
 
 
 ### Announcements and latest whereabouts
-- (_new_) I'm organizing [2019 SIAM mini-seminar on application of tropical
-geometry for machine learning](https://www.siam.org/Conferences/CM/Main/ag19) (with focus on deep neural networks). 
+- (_new_) I'm organizing [2019 SIAM Minisymposium  on application of tropical
+geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19_Proposed_Minisymposia) (with focus on deep neural networks) [(SIAM AG19)](https://www.siam.org/Conferences/CM/Main/ag19). 
 - (_new_) I'm participating in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view) taking place this Oct 14-20, in [Oberwolfach, Germany](https://en.wikipedia.org/wiki/Oberwolfach). 
 - (_new_) During the summer of 2018  I've spent wonderful time working as a PhD machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and TensorFlow.  
 
