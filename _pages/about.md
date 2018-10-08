@@ -32,8 +32,7 @@ to the family of tropical rational maps. This novel connection between two previ
 ![Polytopes](https://sgregnt.github.io/images/tropical.png "Polytopes")
 
 
-* Topological data analysis to boost performance of neural networks.
-
+* Topological data analysis to boost performance of neural networks. 
 [Topological data analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) is a relatively
 new area of research that has rapidly developed in the past decade. TDA
 uses ideas from topology to analyses point cloud data. In my older work
