@@ -58,5 +58,36 @@ neural network performance.
 
 In the past I worked in logic design and hardware engineering. I did a research project at the [Techinion](https://www.technion.ac.il/en/home-2/) where we designed [a near real time logic circuit for RSA enchription](https://ieeexplore.ieee.org/abstract/document/5386066). For the period betwen 2006-2015 year I worked as a board designer and FPGA engineer and team leader. 
 
+## Honors & Awards
+
+* 2018 Invited to participate in Oberwolfach Seminar: Mathematics of Deep Learning. The Institute will cover the expenses for accommodation and meals. and reimburse travel expenses.
+* 2018 ICML have been selected for a travel award covering travel and acommodation expenses.
+* 2017 SAS institute prize for patent initiative 2017.
+* 2015-2017: McCormick Fellowship. 
+* 2004-2008: Technion President Excellence Award. Received 2 times.
+* 2004-2008: [__"Psagot"__(Hebrew)](https://he.wikipedia.org/wiki/%D7%AA%D7%95%D7%9B%D7%A0%D7%99%D7%AA_%D7%A4%D7%A1%D7%92%D7%95%D7%AA) excellence program.
 
 
+
+## Publications
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## Talks
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+## Teaching
+
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## Service and leadership
+
+* 2018 - Leading a consulting team of PhD and master students to helps law school initiative to study gender dynamics and gendered achievement disparities at the law school in the University of Chicago. The report can be found [__here__](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
+* 2017 - Leading a consulting team of PhD and master students that helps reserchers in bipolgy department to analyze spatial patterns of migrating cells in zebrafish embryos.
