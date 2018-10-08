@@ -34,13 +34,13 @@ to the family of tropical rational maps. This novel connection between two previ
 
 * Topological data analysis to boost performance of neural networks. 
 [Topological data analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) is a relatively
-new area of research that has rapidly developed in the past decade. TDA
-uses ideas from topology to analyses point cloud data. In my older work
+new area of research that has rapidly developed in the past decade it
+uses ideas from topology for data analysis. In my older work
 I've considered TDA in a settings where point cloud data is
 contaminated by a noise and proved a theoretical convergence results for
-a Euler integral. In a recent project that I work on, we show how TDA can be used for profiling
+a Euler integral (See [Justin Curry Et al.](https://www.math.upenn.edu/~ghrist/preprints/eulertome.pdf)). In a recent project that I work on, we show how TDA can be used for profiling
 of neural network operation and boosting its performance. The profiling
-is done using the mapper algorithm [G Singh et. al., 2007](https://research.math.osu.edu/tgda/mapperPBG.pdf), the algorithm provides topological
+is done using the mapper algorithm [(G Singh Et al., 2007)](https://research.math.osu.edu/tgda/mapperPBG.pdf), the algorithm provides topological
 summary for the data shape, in the form of simplex or a graph, the shape
 of the data is used to measure local performance of neural network on
 diferent regions in the input and  then device an assembly scheme that improves
