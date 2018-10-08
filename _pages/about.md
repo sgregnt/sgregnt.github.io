@@ -56,7 +56,7 @@ neural network performance.
 
 ## Past research interests
 
-In the past I worked in logic design and hardware engineering. This started with research project at the Techinion Israel where we designed a (near real time logic circuit for RSA enchription)[https://ieeexplore.ieee.org/abstract/document/5386066]. For the next 9 year I worked as a board designer and FPGA engineer. 
+In the past I worked in logic design and hardware engineering. I did a research project at the [Techinion](https://www.technion.ac.il/en/home-2/) where we designed [a near real time logic circuit for RSA enchription](https://ieeexplore.ieee.org/abstract/document/5386066). For the period betwen 2006-2015 year I worked as a board designer and FPGA engineer and team leader. 
 
 
 
