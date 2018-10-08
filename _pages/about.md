@@ -94,3 +94,14 @@ In the past I worked in logic design and hardware engineering. I did a research 
 * Peer review for ["Artificial Intelligence Review"](https://link.springer.com/journal/10462)
 * Peer review for ["Linear Algebra and its Applications"](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications)
 * Peer review (unofficial) for ["The Annals of Probability"](https://www.imstat.org/journals-and-publications/annals-of-probability/)
+
+
+## coloborations
+* [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/) 
+* [Robert Adler](https://robert.net.technion.ac.il/)
+* [Liwen Zhang](https://newtraell.cs.uchicago.edu/people/liwenz)
+* [Jorge Silva](https://scholar.google.com/citations?user=rZ8yeAkAAAAJ&hl=en)
+* [Namita Lokare](https://scholar.google.com/citations?user=gEmpXL0AAAAJ&hl=en)
+* [Ilknur Kaynar-Kabul](https://blogs.sas.com/content/author/ilknurkaynarkabul/)
+* David Flasher 
+* Leonid Prokupetz
