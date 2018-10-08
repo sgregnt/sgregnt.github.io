@@ -14,14 +14,19 @@ I'm studying towards a PhD degree at [the University of Chicago](https://www.uch
 I'm interested in applying non standard tools form abstract algebra and topolgy to the study of neural networks. Two most recent project that I work on now are:
 
 
-## The latest anouncments and whereabouts
+***
+
+## Announcements and latest whereabouts
 - (_new_) I'm organizing 2019 SIAM mini-seminar on application of tropical
 geometry for machine learning (with focus on deep neural networks). 
 - (_new_) I'm participating in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view) taking place this 14-20 Oct, 2018. 
 - (_new_) During the summer of 2018  I've spand wonderful time working as doctoral machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and tensorflow.  
 
 
-## Latest research projects
+***
+
+
+## Most recent research projects
 
 * [Tropical algebra and tropical geometry](https://en.wikipedia.org/wiki/Tropical_geometry) of deep neural network.   
    - In our latest work, presented this year at ICML conference in Stockholm, we've establish connections
@@ -48,6 +53,8 @@ diferent regions in the input and  then device an assembly scheme that improves
 neural network performance.
 
 ![Topological Data summary](https://sgregnt.github.io/images/tda.png "Topological Data summary")
+
+***
 
 ## Past research interests
 
