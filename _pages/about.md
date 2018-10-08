@@ -44,9 +44,9 @@ summary for the data shape, in the form of simplex or a graph, the shape
 of the data is used to measure local performance of neural network on
 diferent regions in the input and  then device an assembly scheme that improves
 neural network performance.
-<p style="text-align: center;">
+
 ![Topological Data summary](https://sgregnt.github.io/images/tda.png "Topological Data summary")
-</p>
+
 During the summer of 2017 and 2018 I've spand wonderful time working as doctoral machine learning intern working on deep learning in (SAS institute)[https://www.sas.com/en_us/home.html] (2017, Cary, NC, US) and in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and tensorflow.  
 
 # Past research interest and work expirience. 
