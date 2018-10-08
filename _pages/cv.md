@@ -15,19 +15,12 @@ Education
     * Advisor: Lek-Heng Lim. 
     * Research: Tropical geometry for deep learning, applied topological
 data analysis 
-    #* Course work: Fundamentals of deep learning, Machine learning, Largre scale machine
-#learning, Bayesian analysis, Nonparametric inference, Applied linear statistic methods, Scientific
-#computations, Stochastic simulations, Numerical optimization, Convex optimization, Advanced
-#courses in probability.
 
 * M.Sc. in [__Electrical Engineering__](https://vee.technion.ac.il/), Technion - Israel institute of Technology, 2014
     * Advisor: Robert J. Adler. 
     * Research: Thesis on random Gaussian fields in the context of
 data analysis and applied topology. 
-    #* Advanced courses: Object-oriented programming and
-#design, Image processing, Advanced topics in systems learning and control - Statistical methods
-#in brain imaging, Selected topics in probability and statistics - Discrete Gaussian free fields,
-#Stochastic control.
+
 
 * B.Sc. in [__Electrical Engineering__](https://vee.technion.ac.il/), Technion - Israel institute of Technology, 2008
     * Signal processing, Digital communication.
