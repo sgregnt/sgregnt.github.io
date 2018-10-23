@@ -7,4 +7,4 @@ Student Seminars"
 location: "Chicago, IL, US"
 ---
 
-[More information is here](https://icml.cc/Conferences/2018/Schedule?showEvent=2946)
+[More information is here](https://cam.uchicago.edu/funding/rtg-studentseminars-spr18.shtml)
