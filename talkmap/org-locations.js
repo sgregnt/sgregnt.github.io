@@ -31,8 +31,8 @@ var addressPoints = [
   ] ,
   [
     "Valencia, Spain",
-    47.4925,
-    19.0513, 
+    19.0513,
+    47.4925 
   ] 
   
 ];
