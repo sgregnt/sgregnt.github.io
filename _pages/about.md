@@ -20,7 +20,7 @@ I'm interested in applying non-standard tools form abstract algebra and topology
 - (_new_) I'm participating in [applied algebra day at MIT](http://math.mit.edu/~erobeva/seminar.html) giving a talk on tropical geometry of deep neural networks. 
 - (_new_) I'm helping organize [2019 SIAM minisymposium  on application of tropical
 geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19_Proposed_Minisymposia) (with focus on deep neural networks) [(SIAM AG19)](https://www.siam.org/Conferences/CM/Main/ag19). 
-- I've participated in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view), that took place this Oct 14-20, in [Oberwolfach, Germany](https://en.wikipedia.org/wiki/Oberwolfach). 
+- I've participated in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view), that took place in Oct 14-20 2018, in [Oberwolfach, Germany](https://en.wikipedia.org/wiki/Oberwolfach). 
 - During the summer of 2018  I've spent wonderful time working as a PhD machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and TensorFlow.  
 
 
