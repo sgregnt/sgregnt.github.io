@@ -1,5 +1,5 @@
 # Welcome to Jekyll!
-#
+# 
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Gregory Naisat (Naitzat)"
-description              : &description "personal description"
+description              : &description "Personal description"
 url                      : https://sgregnt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sgregnt/sgregnt.github.io"
