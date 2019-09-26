@@ -100,7 +100,7 @@ neural network performance.
   
 ## Service and leadership
 
-* 2019 - One of the organizer of ["RTG Summer Lectures"](https://www.stat.uchicago.edu/events/rtg/) at The University of Chicago
+* 2019 - One of the organizers of ["RTG Summer Lectures"](https://www.stat.uchicago.edu/events/rtg/) at The University of Chicago
 * 2018 - Leading team of PhD and master students to helps the law school at the university of Chicago analyze gender dynamics and gender achievement disparities at the school. The report can be found [__here__.](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
 * 2017 - Leading a team of PhD and master students to help reserchers in biology department analyze spatial patterns of migrating cells in zebrafish embryos (analysis of cell movement within embryo).
 * Peer review for ["Artificial Intelligence Review"](https://link.springer.com/journal/10462)
