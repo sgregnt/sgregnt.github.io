@@ -15,11 +15,11 @@ I'm interested in applying non-standard tools form abstract algebra and topology
 
 
 ### Announcements and latest whereabouts
-- I've gave a tlak at ICIAM 2019 Minisymposium on Deep Learning that took place in [Valencia](https://en.wikipedia.org/wiki/Valencia), organized by [Tingran Gao](https://gaotingran.com/) and [Haizhao Yang](http://www.math.nus.edu.sg/~matyh/). 
+- I've gave a talk at ICIAM 2019 Minisymposium on Deep Learning that took place in [Valencia](https://en.wikipedia.org/wiki/Valencia), organized by [Tingran Gao](https://gaotingran.com/) and [Haizhao Yang](http://www.math.nus.edu.sg/~matyh/). 
+- I've oraganized [2019 SIAM minisymposium on application of tropical
+geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19_Proposed_Minisymposia) (with focus on deep neural networks) [(SIAM AG19)](https://www.siam.org/Conferences/CM/Main/ag19), Bern, Switzerland. 
 - Last December I've participating in a course on finite element modeling using [FEniCS](https://fenicsproject.org/) in Paris organized by [Prof. L.R. Scott](http://people.cs.uchicago.edu/~ridg/). 
 - I gave a talk in [applied algebra day at MIT](http://math.mit.edu/~erobeva/seminar.html) on tropical geometry of deep neural networks. 
-- I've oraganized [2019 SIAM minisymposium on application of tropical
-geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19_Proposed_Minisymposia) (with focus on deep neural networks) [(SIAM AG19)](https://www.siam.org/Conferences/CM/Main/ag19). 
 - I've participated in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view), that took place in Oct 14-20 2018, in [Oberwolfach, Germany](https://en.wikipedia.org/wiki/Oberwolfach). 
 - During the summer of 2018  I've spent wonderful time working as a PhD machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and TensorFlow.  
 
@@ -27,15 +27,13 @@ geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19
 ## Most recent research projects
 
 * Topological of Deep Neural Network. 
-
 A key insight of topological data analysis is that “data has shape”.
-We will study how modern deep neural networks transform topologies of data sets, 
+We study how modern deep neural networks transform shape of data sets, 
 with the goal of shedding light on their breathtaking yet somewhat mysterious effectiveness.
 Most existing approaches tend to focus on what a network does to a single object, e.g. an image of a cat; but we are interested in what it does to all objects in the same class, e.g. the set of all cats. As in topological data analysis, we
 employ persistent homology — a computational topology tool with proven stability, robust algorithms,
 and high-quality software — to track changes in the topology of a data set as it passes through the
 layers of neural network.
-![TopologyChange](https://sgregnt.github.io/images/topology_change.png "Topology Change")
 ![TopologyChange2](https://sgregnt.github.io/images/all2.png "Topology Change")
 
 
