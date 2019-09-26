@@ -100,10 +100,12 @@ neural network performance.
   
 ## Service and leadership
 
+* 2019 - One of the organizer of ["RTG Summer Lectures"](https://www.stat.uchicago.edu/events/rtg/) at The University of Chicago
 * 2018 - Leading team of PhD and master students to helps the law school at the university of Chicago analyze gender dynamics and gender achievement disparities at the school. The report can be found [__here__.](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
-* 2017 - Leading a team of PhD and master students that consult reserchers in biology department to help them analyze spatial patterns of migrating cells in zebrafish embryos (analysis of cell movement within embryo).
+* 2017 - Leading a team of PhD and master students to help reserchers in biology department analyze spatial patterns of migrating cells in zebrafish embryos (analysis of cell movement within embryo).
 * Peer review for ["Artificial Intelligence Review"](https://link.springer.com/journal/10462)
 * Peer review for ["Linear Algebra and its Applications"](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications)
+* Peer review for ["Journal of Symbolic Computation"](https://www.journals.elsevier.com/journal-of-symbolic-computation)
 * Peer review (unofficial) for ["The Annals of Probability"](https://www.imstat.org/journals-and-publications/annals-of-probability/)
 
 
@@ -115,6 +117,7 @@ neural network performance.
 * [Namita Lokare](https://scholar.google.com/citations?user=gEmpXL0AAAAJ&hl=en)
 * [Ilknur Kaynar-Kabul](https://blogs.sas.com/content/author/ilknurkaynarkabul/)
 * [David Fleischer](https://il.linkedin.com/in/davidfleischer)
+* [Andrey Zhitnikov](https://sipl.eelabs.technion.ac.il/members/andrey-zhitnikov/)
 * Leonid Prokupetz
 
 
