@@ -18,10 +18,10 @@ I'm interested in applying non-standard tools form abstract algebra and topology
 - I've gaven a talk at ICIAM 2019 Minisymposium on Deep Learning that took place in [Valencia](https://en.wikipedia.org/wiki/Valencia), organized by [Tingran Gao](https://gaotingran.com/) and [Haizhao Yang](http://www.math.nus.edu.sg/~matyh/). 
 - I've oraganized [2019 SIAM minisymposium on application of tropical
 geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19_Proposed_Minisymposia) (with focus on deep neural networks) [(SIAM AG19)](https://www.siam.org/Conferences/CM/Main/ag19), Bern, Switzerland. 
-- Last December I've participating in a course on finite element modeling using [FEniCS](https://fenicsproject.org/) in Paris organized by [Prof. L.R. Scott](http://people.cs.uchicago.edu/~ridg/). 
+- Last December I have participated in a course on finite element modeling using [FEniCS](https://fenicsproject.org/) in Paris organized by [Prof. L.R. Scott](http://people.cs.uchicago.edu/~ridg/). 
 - I gave a talk in [applied algebra day at MIT](http://math.mit.edu/~erobeva/seminar.html) on tropical geometry of deep neural networks. 
 - I've participated in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view), that took place in Oct 14-20 2018, in [Oberwolfach, Germany](https://en.wikipedia.org/wiki/Oberwolfach). 
-- During the summer of 2018  I've spent wonderful time working as a PhD machine learning intern in Blink startup (2018 Haifa, Israel) working with Caffe, Theano and TensorFlow.  
+- During the summer of 2018  I've spent wonderful time working as a PhD machine learning intern in Blink startup (Haifa, Israel) working with TensorFlow and Caffe.  
 
 
 ## Most recent research projects
@@ -48,26 +48,24 @@ to the family of tropical rational maps. This novel connection between two previ
 
 * Topological data analysis to boost performance of neural networks. 
 [Topological data analysis (TDA)](https://en.wikipedia.org/wiki/Topological_data_analysis) is a relatively
-new area of research that has rapidly developed in the past decade it
-uses ideas from topology for data analysis. In my older work
-I've considered TDA in a settings where point cloud data is
-contaminated by a noise and proved a theoretical convergence results for
-a Euler integral (See [Justin Curry Et al.](https://www.math.upenn.edu/~ghrist/preprints/eulertome.pdf)). In a recent project that I work on, we show how TDA can be used for profiling
-of neural network operation and boosting its performance. The profiling
-is done using the mapper algorithm [(G Singh Et al., 2007)](https://research.math.osu.edu/tgda/mapperPBG.pdf), the algorithm provides topological
-summary for the data shape, in the form of simplex or a graph, the shape
-of the data is used to measure local performance of neural network on
-diferent regions in the input and  then device an assembly scheme that improves
-neural network performance.
+new area of research which has rapidly developed in the past decade. 
+TDA uses ideas from topology for data analysis. In the past
+I've considered TDA in a setting where point cloud data is
+contaminated by noise and proved a theoretical convergence results for
+the Euler Integral, which is one of the tools in TDA ([Justin Curry Et al.](https://www.math.upenn.edu/~ghrist/preprints/eulertome.pdf)). In this project I use another tool from TDA, a mapper algorithm, [(G Singh Et al., 2007)](https://research.math.osu.edu/tgda/mapperPBG.pdf) for profiling of neural networks 
+and boosting their performance. The proposed algorithm provides topological
+summary for the input data shape, this summary is used to measure local 
+performance of neural network in the input, which in turn guides an assembly 
+scheme that improves neural network performance.
 
 ![Topological Data summary](https://sgregnt.github.io/images/tda.png "Topological Data summary")
 
 
 ## Past research interests and professional experience
 
-- In the past I worked in logic design and hardware engineering. 
+- In the past I worked in logic design and hardware engineering:
     - I did a research project at the [Technion](https://www.technion.ac.il/en/home-2/) where we designed [a near real time logic circuit for RSA encryption](https://ieeexplore.ieee.org/abstract/document/5386066). 
-    - For the period between 2006-2015 year I worked as a board designer, FPGA engineer and FPGA development team leader. 
+    - For the period between 2006-2015 I worked as a board designer, FPGA engineer and FPGA development team leader. 
 
 ## Honors & Awards
 
