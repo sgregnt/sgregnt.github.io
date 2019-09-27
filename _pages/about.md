@@ -15,7 +15,7 @@ I'm interested in applying non-standard tools form abstract algebra and topology
 
 
 ### Announcements and latest whereabouts
-- I've gave a talk at ICIAM 2019 Minisymposium on Deep Learning that took place in [Valencia](https://en.wikipedia.org/wiki/Valencia), organized by [Tingran Gao](https://gaotingran.com/) and [Haizhao Yang](http://www.math.nus.edu.sg/~matyh/). 
+- I've gaven a talk at ICIAM 2019 Minisymposium on Deep Learning that took place in [Valencia](https://en.wikipedia.org/wiki/Valencia), organized by [Tingran Gao](https://gaotingran.com/) and [Haizhao Yang](http://www.math.nus.edu.sg/~matyh/). 
 - I've oraganized [2019 SIAM minisymposium on application of tropical
 geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19_Proposed_Minisymposia) (with focus on deep neural networks) [(SIAM AG19)](https://www.siam.org/Conferences/CM/Main/ag19), Bern, Switzerland. 
 - Last December I've participating in a course on finite element modeling using [FEniCS](https://fenicsproject.org/) in Paris organized by [Prof. L.R. Scott](http://people.cs.uchicago.edu/~ridg/). 
