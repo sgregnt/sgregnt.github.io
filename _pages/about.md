@@ -104,7 +104,7 @@ scheme that improves neural network performance.
 * Peer review for ["Artificial Intelligence Review"](https://link.springer.com/journal/10462)
 * Peer review for ["Linear Algebra and its Applications"](https://www.sciencedirect.com/journal/linear-algebra-and-its-applications)
 * Peer review for ["Journal of Symbolic Computation"](https://www.journals.elsevier.com/journal-of-symbolic-computation)
-* Peer review (unofficial) for ["The Annals of Probability"](https://www.imstat.org/journals-and-publications/annals-of-probability/)
+* Peer review for ["The Annals of Probability"](https://www.imstat.org/journals-and-publications/annals-of-probability/) (unofficial) 
 
 
 ## Collaborations
