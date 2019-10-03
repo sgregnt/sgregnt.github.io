@@ -55,7 +55,7 @@ contaminated by noise and proved a theoretical convergence results for
 the Euler Integral, which is one of the tools in TDA ([Justin Curry Et al.](https://www.math.upenn.edu/~ghrist/preprints/eulertome.pdf)). In this project I use another tool from TDA, a mapper algorithm, [(G Singh Et al., 2007)](https://research.math.osu.edu/tgda/mapperPBG.pdf) for profiling of neural networks 
 and boosting their performance. The proposed algorithm provides topological
 summary for the input data shape, this summary is used to measure local 
-performance of neural network in the input, which in turn guides an assembly 
+performance of neural network in the input, which in turn guides an ensemble 
 scheme that improves neural network performance.
 
 ![Topological Data summary](https://sgregnt.github.io/images/tda.png "Topological Data summary")
