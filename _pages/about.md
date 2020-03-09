@@ -15,11 +15,11 @@ I'm interested in applying non-standard tools form abstract algebra and topology
 
 
 ### Announcements and latest whereabouts
-- I've gaven a talk at ICIAM 2019 Minisymposium on Deep Learning that took place in [Valencia](https://en.wikipedia.org/wiki/Valencia), organized by [Tingran Gao](https://gaotingran.com/) and [Haizhao Yang](http://www.math.nus.edu.sg/~matyh/). 
+- I gave a talk at ICIAM 2019 Minisymposium on Deep Learning that took place in [Valencia](https://en.wikipedia.org/wiki/Valencia), organized by [Tingran Gao](https://gaotingran.com/) and [Haizhao Yang](http://www.math.nus.edu.sg/~matyh/). 
 - I've oraganized [2019 SIAM minisymposium on application of tropical
 geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19_Proposed_Minisymposia) (with focus on deep neural networks) [(SIAM AG19)](https://www.siam.org/Conferences/CM/Main/ag19), Bern, Switzerland. 
 - Last December I have participated in a course on finite elements modeling using [FEniCS](https://fenicsproject.org/) in Paris organized by [Prof. L.R. Scott](http://people.cs.uchicago.edu/~ridg/). 
-- I gave a talk in [applied algebra day at MIT](http://math.mit.edu/~erobeva/seminar.html) on tropical geometry of deep neural networks. 
+- I gave a talk at [applied algebra day at MIT](http://math.mit.edu/~erobeva/seminar.html) on tropical geometry of deep neural networks. 
 - I've participated in [Oberwolfach Seminar: Mathematics of Deep Learning](https://www.mfo.de/occasion/1842b/www_view), that took place in Oct 14-20 2018, in [Oberwolfach, Germany](https://en.wikipedia.org/wiki/Oberwolfach). 
 - During the summer of 2018  I've spent wonderful time working as a PhD machine learning intern in Blink startup (Haifa, Israel) working with TensorFlow and Caffe.  
 
