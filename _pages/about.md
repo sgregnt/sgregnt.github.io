@@ -12,7 +12,7 @@ redirect_from:
 ## Note: From May 2020, I'm no longer maintaning this website.
 
 In the winter quarter (2019-2020) I've completed my PhD degree at [the University of Chicago](https://www.uchicago.edu/), in the department of [Statistics](https://galton.uchicago.edu/). In my research I have applied non-standard tools from abstract algebra and topology to the study of neural networks. My research
- was conducted under the supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/). Currently my interests have shifted from academic research towards industry applications.
+ was conducted under the supervision of [Prof. Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/). Currently my interests have shifted from academic research towards industry applications.
 
 
 ### Past conferences (partial list)
