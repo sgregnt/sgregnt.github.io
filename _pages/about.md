@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-I'm studying towards a PhD degree at [the University of Chicago](https://www.uchicago.edu/), in the department of [Statistics](https://galton.uchicago.edu/). My research is conducted under the supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/)
+**Note: From May 2020, I'm no longer maintaning this website.**
 
-I'm interested in applying non-standard tools form abstract algebra and topology to the study of neural networks. 
+In the winter quarter (2019-2020) I've completed my PhD degree at [the University of Chicago](https://www.uchicago.edu/), in the department of [Statistics](https://galton.uchicago.edu/). In my research I have applied non-standard tools form abstract algebra and topology to the study of neural networks. My research
+ was conducted under the supervision of [Prof. Lek-Heng Lim.](https://www.stat.uchicago.edu/~lekheng/). Currently my interests have shifted from academic research towards industry applications.
 
-
-### Announcements and latest whereabouts
+### Past conferences (partial list)
 - I gave a talk at ICIAM 2019 Minisymposium on Deep Learning that took place in [Valencia](https://en.wikipedia.org/wiki/Valencia), organized by [Tingran Gao](https://gaotingran.com/) and [Haizhao Yang](http://www.math.nus.edu.sg/~matyh/). 
 - I've oraganized [2019 SIAM minisymposium on application of tropical
 geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19_Proposed_Minisymposia) (with focus on deep neural networks) [(SIAM AG19)](https://www.siam.org/Conferences/CM/Main/ag19), Bern, Switzerland. 
@@ -24,7 +24,7 @@ geometry for machine learning](http://wiki.siam.org/siag-ag/index.php/SIAM_AG_19
 - During the summer of 2018  I've spent wonderful time working as a PhD machine learning intern in Blink startup (Haifa, Israel) working with TensorFlow and Caffe.  
 
 
-## Most recent research projects
+## Past research projects
 
 * Topology of Deep Neural Networks. 
 A key insight of topological data analysis is that “data has shape”.
@@ -96,7 +96,7 @@ scheme that improves neural network performance.
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Service and leadership
+## Past service and leadership (partial)
 
 * 2019 - One of the organizers of ["RTG Summer Lectures"](https://www.stat.uchicago.edu/events/rtg/) at The University of Chicago
 * 2018 - Leading team of PhD and master students to helps the law school at the university of Chicago analyze gender dynamics and gender achievement disparities at the school. The report can be found [here.](https://www.law.uchicago.edu/files/2018-05/wap_final.pdf) 
@@ -107,7 +107,8 @@ scheme that improves neural network performance.
 * Peer review for ["The Annals of Probability"](https://www.imstat.org/journals-and-publications/annals-of-probability/) (unofficial) 
 
 
-## Collaborations
+## Past collaborations
+* [Alexander Naitsat](https://visl.technion.ac.il/members/alexander-naitsat/) 
 * [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/) 
 * [Robert Adler](https://robert.net.technion.ac.il/)
 * [Liwen Zhang](https://newtraell.cs.uchicago.edu/people/liwenz)
